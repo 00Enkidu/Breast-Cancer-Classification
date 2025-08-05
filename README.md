@@ -16,9 +16,9 @@ This project provides a practical example of applying machine learning technique
 The neural network was trained for 10 epochs. The training accuracy improved steadily from 48% to 97%, while the validation accuracy quickly reached 95% and remained stable. The loss values for both training and validation sets decreased consistently, indicating effective learning and no signs of overfitting.
 
 **Final Epoch Results:**
-- Training Accuracy: 97.6%
+- Training Accuracy: 0.9756
 - Training Loss: 0.0825
-- Validation Accuracy: 95.7%
+- Validation Accuracy: 0.9565
 - Validation Loss: 0.0913
 
 The model demonstrates strong performance and generalization on the validation set.
